@@ -1,0 +1,21 @@
+{
+  "name": "self-talent-iq",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
+    "start": "npm start --prefix backend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayush-IT/talent-IQ.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ayush-IT/talent-IQ/issues"
+  },
+  "homepage": "https://github.com/Ayush-IT/talent-IQ#readme",
+  "description": ""
+}
